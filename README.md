@@ -33,7 +33,7 @@ Adding all the files manually can be tiring. So just keep your files in a folder
 - `add folder evolution to fb type linear`
 
 Finally, you can export the flipbook as MP4, GIF or PDF.
-- `release fb as evolution.mp4`
+- `release fb as evolution.gif`
 
 There are other useful features also
 - Joining one flipbook with another, via command `add reel fb2 to fb1`
