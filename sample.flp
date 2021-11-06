@@ -1,17 +1,12 @@
-#new flipbook fb1
-#new flipbook fb2
-#add file images/img1.png to fb1
-#add file images/img2.png to fb1
-#add file images/img3.png to fb1
-#add file images/img4.png to fb2
-#add file images/img5.png to fb2
-#add file images/img6.png to fb2
-#release fb1 as evolution.mp4
-#release fb2 as evolution.gif
-#add reel fb2 to fb1
-#release fb1 as evolution.pdf
-
-new flipbook fb1
-add folder lifecycle to fb1
-set fb1 fps 60
-print fb1
+new flipbook fb
+set fb width 500
+set fb height 500
+add file img1.png to fb
+add file img2.png to fb
+add file img3.png to fb smoothness 150
+add folder evolution to fb type linear
+release fb as evolution.gif
+new flipbook lifec
+set lifec fps 60
+add folder lifecycle to lifec
+release lifec as lifecycle.mp4
