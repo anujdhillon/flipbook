@@ -23,7 +23,7 @@ To set width and height of the window, use ->
 This creates an empty flipbook.
 
 Now you can add images to the flipbook ->
-`add file img1.png to fb`
+`add file img1.png to fb\n`
 `add file img2.png to fb`
 
 You can also add some parameters such as how many frames you want in transition ->
