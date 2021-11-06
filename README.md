@@ -3,7 +3,7 @@
 The repo contains the source code from which converts a collection of images to MP4, PDF or GIF format. I also developed it's standalone executable for Windows which can be downloaded from the link https://drive.google.com/file/d/1jq_tQKaI5vh-QFtaGffVDlOzcrJDAAgZ/view?usp=sharing
 
 The commands for the language are to be written in a .flp file and executed as follows ->
-.\compiler.exe .\sample.flp
+`.\compiler.exe .\sample.flp`
 
 The language currently has support for two datatypes
 - `flipbook`
