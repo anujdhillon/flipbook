@@ -32,7 +32,7 @@ You can also add some parameters such as how many frames you want in transition 
 Adding all the files manually can be tiring. So just keep your files in a folder and add the folder together. Maybe you want the files to have increasing frames as they are being added to create a slow down effect in the end.
 - `add folder evolution to fb type linear`
 
-Finally, you can export the flipbook as MP4, GIF or PDF.
+Finally, you can export the flipbook as MP4, GIF or PDF (gifs are a bit slow).
 - `release fb as evolution.gif`
 
 There are other useful features also
