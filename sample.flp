@@ -6,7 +6,7 @@ add file img2.png to fb
 add file img3.png to fb smoothness 150
 add folder evolution to fb type linear
 release fb as evolution.gif
-new flipbook lifec
-set lifec fps 60
-add folder lifecycle to lifec
-release lifec as lifecycle.mp4
+#new flipbook lifec
+#set lifec fps 60
+#add folder lifecycle to lifec
+#release lifec as lifecycle.mp4
